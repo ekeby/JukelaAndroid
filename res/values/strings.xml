@@ -4,5 +4,10 @@
     <string name="app_name">Jukela</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="app_id">324883964323579</string>
+    <string name="error_dialog_default_text">Hata Olustu</string>
+    <string name="error_authentication_retry">Hata olustu, tekrar deniyor!</string>
+    <string name="error_authentication_reopen">Hata olustu, tekrar acmayi deniyor!</string>
+    <string name="title_activity_home_view">HomeViewActivity</string>
 
 </resources>
